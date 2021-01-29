@@ -1,0 +1,10 @@
+package com.aditya.springcloud.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Product {
+
+	
+	
+}

@@ -1,0 +1,5 @@
+package com.aditya.springcloud.repos;
+
+public class ProductRestController {
+
+}

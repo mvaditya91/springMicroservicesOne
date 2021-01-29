@@ -1,0 +1,13 @@
+package com.aditya.springcloud.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Product {
+	
+	private Long id;
+	private String name;
+	private String desc;
+	private BigDecimal price;
+
+}

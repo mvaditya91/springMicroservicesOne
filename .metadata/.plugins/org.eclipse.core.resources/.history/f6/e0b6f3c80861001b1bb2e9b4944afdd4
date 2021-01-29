@@ -1,0 +1,6 @@
+package com.aditya.springcloud.model;
+
+@Entity
+public class Product {
+
+}

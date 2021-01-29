@@ -1,0 +1,5 @@
+package com.aditya.springcloud.dto;
+
+public class Coupon {
+
+}

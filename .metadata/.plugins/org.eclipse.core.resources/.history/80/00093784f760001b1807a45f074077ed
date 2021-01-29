@@ -1,0 +1,7 @@
+package com.aditya.springcloud.controllers;
+
+@RestController
+@RequestMapping("/couponapi")
+public class CouponRestController {
+
+}
